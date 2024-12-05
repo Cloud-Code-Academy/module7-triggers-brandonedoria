@@ -1,7 +1,7 @@
 
-# Developer Kickstart Module 6: Apex Triggers
+# Developer Kickstart Module 7: Apex Triggers
 
-Welcome to Module 6 of the Developer Kickstart curriculum at Cloud Code Academy! This module, we dive deep into the world of Apex Triggers - a fundamental aspect of Salesforce development.
+Welcome to Module 7 of the Developer Kickstart curriculum at Cloud Code Academy! This module, we dive deep into the world of Apex Triggers - a fundamental aspect of Salesforce development.
 
 ## Goals of the Practice
 
